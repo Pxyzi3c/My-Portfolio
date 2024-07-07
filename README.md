@@ -134,19 +134,25 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Placeholder",
+    des: "Sample description",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/Pxyzi3c/django-react-first-app",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Spotify Music Controller",
+    des: "Control Spotify playback & vote on songs with friends in this Django & React.js app."
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    iconLists: [
+      "/spotify.svg",
+      "/pause.svg",
+      "/play.svg",
+      "/skip.svg",
+      "/vote.svg",
+    ],
+    link: "https://github.com/Pxyzi3c/django-react-first-app",
   },
   {
     id: 3,
