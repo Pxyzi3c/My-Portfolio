@@ -173,31 +173,38 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Web Developer",
+    company: "Technomancer Inc",
+    date: "May 2024 - June 2024",
+    desc: "Engaged in the design and development of government web sites.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Software Developer",
+    company: "Technomancer Inc",
+    date: "Oct 2023 - January 2024",
+    desc: "Played a key role as a support developer in building and maintaining web applications.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software Developer Intern",
+    company: "Technomancer Inc",
+    date: "Apr 2023 - Oct 2023",
+    desc: "Played a key role in delivering actual tasks, bug fixing and developing new features.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
+    thumbnail: "/exp4.svg",
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "ESL Teacher",
+    company: "English Development Pro-Asia",
+    date: "Oct 2022 - Apr 2023",
+    desc: "Taught English to Japanese students, fostering effective communication skills.",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/exp3.svg",
   },
 ];
 
