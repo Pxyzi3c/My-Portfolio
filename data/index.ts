@@ -180,33 +180,33 @@ export const workExperience = [
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
-  // {
-  //   id: 2,
-  //   title: "Software Developer",
-  //   company: "Technomancer Inc",
-  //   date: "Oct 2023 - January 2024",
-  //   desc: "Played a key role as a support developer in building and maintaining web applications.",
-  //   className: "md:col-span-2", // change to md:col-span-2
-  //   thumbnail: "/exp2.svg",
-  // },
-  // {
-  //   id: 3,
-  //   title: "Software Developer Intern",
-  //   company: "Technomancer Inc",
-  //   date: "Apr 2023 - Oct 2023",
-  //   desc: "Played a key role in delivering actual tasks, bug fixing and developing new features.",
-  //   className: "md:col-span-2", // change to md:col-span-2
-  //   thumbnail: "/exp4.svg",
-  // },
-  // {
-  //   id: 4,
-  //   title: "ESL Teacher",
-  //   company: "English Development Pro-Asia",
-  //   date: "Oct 2022 - Apr 2023",
-  //   desc: "Taught English to Japanese students, fostering effective communication skills.",
-  //   className: "md:col-span-2",
-  //   thumbnail: "/exp3.svg",
-  // },
+  {
+    id: 2,
+    title: "Software Developer",
+    company: "Technomancer Inc",
+    date: "Oct 2023 - January 2024",
+    desc: "Played a key role as a support developer in building and maintaining web applications.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp2.svg",
+  },
+  {
+    id: 3,
+    title: "Software Developer Intern",
+    company: "Technomancer Inc",
+    date: "Apr 2023 - Oct 2023",
+    desc: "Played a key role in delivering actual tasks, bug fixing and developing new features.",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+  {
+    id: 4,
+    title: "ESL Teacher",
+    company: "English Development Pro-Asia",
+    date: "Oct 2022 - Apr 2023",
+    desc: "Taught English to Japanese students, fostering effective communication skills.",
+    className: "md:col-span-2",
+    thumbnail: "/exp3.svg",
+  },
 ];
 
 export const socialMedia = [
