@@ -197,6 +197,7 @@ export const workExperience = [
     desc: "Played a key role in delivering actual tasks, bug fixing and developing new features.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp4.svg",
+  },
   {
     id: 4,
     title: "ESL Teacher",
