@@ -143,7 +143,7 @@ export const projects = [
   {
     id: 2,
     title: "Spotify Music Controller",
-    des: "Control Spotify playback & vote on songs with friends in this Django & React.js app."
+    des: "Control Spotify playback & vote on songs with friends in this Django & React.js app.",
     img: "/p2.svg",
     iconLists: [
       "/spotify.svg",

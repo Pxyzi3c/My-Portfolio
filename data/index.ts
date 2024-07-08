@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "Tech enthusiast with a passion for development.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "'People are only limited by the dept of their imagination.'",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -46,7 +46,6 @@ export const gridItems = [
     img: "/grid.svg",
     spareImg: "/b4.svg",
   },
-
   {
     id: 5,
     title: "Currently exploring django and react.js and data analysis.",
@@ -72,32 +71,38 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Placeholder",
+    des: "Sample description",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/Pxyzi3c/django-react-first-app",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Spotify Music Controller",
+    des: "Control Spotify playback & vote on songs with friends in this Django & React.js app.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    iconLists: [
+      "/spotify.svg",
+      "/pause.svg",
+      "/play.svg",
+      "/skip.svg",
+      "/vote.svg",
+    ],
+    link: "https://github.com/Pxyzi3c/django-react-first-app",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Online Course Website (Front-End)",
+    des: "Responsive online course website during OJT, emphasizing front-end development. Utilized JS libraries for design principles and integrated formspree for user messages on the contact page.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Automated E-Portfolio System",
+    des: "Led development for an interactive system streamlining the creawtion and display of a user's e-portfolio.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
@@ -107,33 +112,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Harvy Jones was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Harvy Jones's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Harvy Jones is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Fusce vulputate vestibulum venenatis. Pellentesque ultrices ut sem quis venenatis. In hac habitasse platea dictumst.",
+    name: "Sample Name",
+    title: "Sample Title",
   },
   {
     quote:
-      "Collaborating with Harvy Jones was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Harvy Jones's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Harvy Jones is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Fusce vulputate vestibulum venenatis. Pellentesque ultrices ut sem quis venenatis. In hac habitasse platea dictumst.",
+    name: "Sample Name",
+    title: "Sample Title",
   },
   {
     quote:
-      "Collaborating with Harvy Jones was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Harvy Jones's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Harvy Jones is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Fusce vulputate vestibulum venenatis. Pellentesque ultrices ut sem quis venenatis. In hac habitasse platea dictumst.",
+    name: "Sample Name",
+    title: "Sample Title",
   },
   {
     quote:
-      "Collaborating with Harvy Jones was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Harvy Jones's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Harvy Jones is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Fusce vulputate vestibulum venenatis. Pellentesque ultrices ut sem quis venenatis. In hac habitasse platea dictumst.",
+    name: "Sample Name",
+    title: "Sample Title",
   },
   {
     quote:
-      "Collaborating with Harvy Jones was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Harvy Jones's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Harvy Jones is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Fusce vulputate vestibulum venenatis. Pellentesque ultrices ut sem quis venenatis. In hac habitasse platea dictumst.",
+    name: "Sample Name",
+    title: "Sample Title",
   },
 ];
 
